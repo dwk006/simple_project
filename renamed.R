@@ -1,4 +1,4 @@
 # this is a new file
-foo=42
-
-newar=37
+foo="that"
+bar="this"
+newstr=foo+bar
