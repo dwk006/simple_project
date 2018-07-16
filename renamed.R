@@ -4,3 +4,5 @@ bar="this"
 newstr=foo+bar
 
 k=10
+
+j=456
