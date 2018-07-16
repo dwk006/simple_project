@@ -2,3 +2,5 @@
 foo="that"
 bar="this"
 newstr=foo+bar
+
+k=10
