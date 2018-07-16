@@ -5,4 +5,6 @@ newstr=foo+bar
 
 k=10
 
+p=123
+
 j=456
